@@ -18,8 +18,9 @@
     <script>
         
     $(document).ready(function () {
-  $('#myTable').DataTable();
+  $('#Table').DataTable();
 });
+// This is project
     </script>
 <style>
 h3{
@@ -45,7 +46,7 @@ h3:hover{
 
 <body>
    
-        <table id="myTable" class="display table table-striped" cellspacing="0" width="100%">
+        <table id="Table" class="display table table-striped" cellspacing="0" width="100%">
     <thead class="table-dark">
         <tr>
             <th>ID</th>
